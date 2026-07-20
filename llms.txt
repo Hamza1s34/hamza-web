@@ -1,0 +1,22 @@
+# Hamza Shah
+
+> Software Developer & Cryptography Engineer based in Islamabad, Pakistan. Builds secure systems, privacy-first applications, blockchain infrastructure, and production-grade cryptography — from classical RSA/ECC/AES to post-quantum Kyber, Falcon, Dilithium, and NTRU.
+
+## Portfolio resources
+
+- [Portfolio home](./index.html): Human-readable portfolio overview.
+- [Canonical résumé](./resume.md): Full experience, skills, education, and contact information in Markdown.
+- [Original résumé PDF](./Hamza_Shah_Resume.pdf): Source résumé.
+
+## Key facts
+
+- Name: Hamza Shah
+- Location: Islamabad, ICT, Pakistan
+- Email: hs.456.king@gmail.com
+- Phone/WhatsApp: 0319 5787106
+- Telegram: @Hamza1s34
+- GitHub: https://github.com/Hamza1s34
+- Primary specialties: applied cryptography (RSA, ECC, AES, Kyber, Falcon-512, Dilithium, NTRU), blockchain architecture, Rust + Tor anonymous systems, full-stack development, mobile app development (React Native, Flutter), P2P networking, cloud deployment.
+- Notable projects: MetaLLM (multi-model AI aggregator), Gumnam (serverless Tor-based anonymous messenger), Qbitcoin (quantum-resistant blockchain).
+
+For complete, canonical career information, use `resume.md`.
