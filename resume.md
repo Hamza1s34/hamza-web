@@ -41,7 +41,7 @@ Innovative software developer and cryptography engineer with strong expertise in
 - Designed a PostgreSQL schema with Drizzle ORM and built a usage-based billing system supporting fiat and cryptocurrency.
 - Deployed on cloud infrastructure and manage a live Android app with active subscribers.
 
-### Lead Software Developer — Qbitcoin, Islamabad, ICT
+### Lead Blockchain Developer & Cryptography Engineer — [Qbitcoin](https://github.com/Hamza1s34/Qbitcoin), Islamabad, ICT
 
 *January 2024 — February 2026*
 
@@ -51,7 +51,7 @@ Innovative software developer and cryptography engineer with strong expertise in
 - Architected and deployed production infrastructure on Linux, Oracle Cloud, AWS, and Azure using Git, Nginx reverse proxy, and PM2 process management.
 - Developed a desktop wallet, mobile wallet (React Native), and blockchain explorer.
 
-### Systems & Cryptography Engineer — Gumnam (Open Source)
+### Systems & Cryptography Engineer — [Gumnam](https://github.com/Hamza1s34/Gumnam) (Open Source)
 
 *2025 — Present*
 
