@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamza1s34.github.io/hamza-web/sitemap.xml
