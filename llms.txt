@@ -1,12 +1,12 @@
 # Hamza Shah
 
-> Software Developer & Cryptography Engineer based in Islamabad, Pakistan. Builds secure systems, privacy-first applications, blockchain infrastructure, and production-grade cryptography — from classical RSA/ECC/AES to post-quantum Kyber, Falcon, Dilithium, and NTRU.
+> Software Developer & Cryptography Engineer based in Islamabad, Pakistan. Builds secure systems, privacy-first applications, blockchain infrastructure, and production-grade cryptography — from classical RSA/ECC/AES to post-quantum Kyber, Falcon-512, Dilithium, and NTRU.
 
 ## Portfolio resources
 
-- [Portfolio home](./index.html): Human-readable portfolio overview.
-- [Canonical résumé](./resume.md): Full experience, skills, education, and contact information in Markdown.
-- [Original résumé PDF](./Hamza_Shah_Resume.pdf): Source résumé.
+- [Portfolio home](https://hamza1s34.github.io/hamza-web/): Human-readable portfolio overview.
+- [Canonical résumé](https://hamza1s34.github.io/hamza-web/resume.md): Full experience, skills, education, and contact information in Markdown.
+- [Original résumé PDF](https://hamza1s34.github.io/hamza-web/Hamza_Shah_Resume.pdf): Source résumé.
 
 ## Key facts
 
@@ -16,7 +16,34 @@
 - Phone/WhatsApp: 0319 5787106
 - Telegram: @Hamza1s34
 - GitHub: https://github.com/Hamza1s34
-- Primary specialties: applied cryptography (RSA, ECC, AES, Kyber, Falcon-512, Dilithium, NTRU), blockchain architecture, Rust + Tor anonymous systems, full-stack development, mobile app development (React Native, Flutter), P2P networking, cloud deployment.
-- Notable projects: MetaLLM (multi-model AI aggregator), Gumnam (serverless Tor-based anonymous messenger), Qbitcoin (quantum-resistant blockchain).
+- LinkedIn: https://www.linkedin.com/in/hamza-shah-2b510929a/
+- Primary specialties: applied cryptography (RSA, ECC, AES, Kyber, Falcon-512, Dilithium, NTRU), blockchain architecture, Rust + Tor anonymous systems, full-stack development, mobile app development (React Native, Flutter), AI engineering, P2P networking, cloud deployment.
+
+## Notable Projects
+
+### Qbitcoin
+- GitHub: https://github.com/Hamza1s34/Qbitcoin
+- Role: Lead Blockchain Developer & Cryptography Engineer (Jan 2024 – Feb 2026)
+- A quantum-resistant blockchain built in Python. Features a full-node implementation with a custom consensus engine, Merkle tree verification, and P2P peer discovery using Kademlia DHT.
+- Security: Replaced ECDSA with Falcon-512 lattice-based post-quantum digital signatures. Full key-generation, signing, and verification pipeline.
+- Interfaces: JSON-RPC and gRPC APIs for wallet integration, block explorer, and exchange connectivity.
+- Clients: Desktop wallet, React Native mobile wallet, and blockchain explorer.
+
+### Gumnam
+- GitHub: https://github.com/Hamza1s34/Gumnam
+- Role: Systems & Cryptography Engineer (2025 – Present)
+- A serverless, Tor-based anonymous messenger built in Rust. Eliminates all reliance on centralized servers by routing all traffic over Tor hidden services.
+- Encryption: End-to-end encrypted using Ed25519/X25519 ECIES + ChaCha20-Poly1305 + HKDF with signed protocol messages and strict reject-on-fail validation.
+- Client: Cross-platform desktop application (Flutter/Dart) integrated with the Rust core via flutter_rust_bridge. Supports chat, media, reactions, pinning, and notifications.
+- Resilience: Offline message delivery via embedded libp2p Kademlia DHT.
+
+### MetaLLM
+- URL: https://metallm.tech
+- Role: Full Stack Developer & AI Engineer (2026 – Present)
+- A multi-model AI aggregator platform that lets users interact with multiple AI models via smart routing, debate mode, direct mode, and multi-model querying.
+- Routing: Intelligent layer that analyzes query complexity and dispatches to specialized models (reasoning, coding, creative, data analysis).
+- Debate Mode: Multi-round debate system where models challenge each other's outputs, refined by a neutral AI judge.
+- Stack: React + TypeScript (Vite, TanStack Query, shadcn/ui) frontend, Express.js/Node.js backend, PostgreSQL + Drizzle ORM, OIDC auth, fiat + crypto billing.
+- Ships a live Android app with active subscribers.
 
 For complete, canonical career information, use `resume.md`.
